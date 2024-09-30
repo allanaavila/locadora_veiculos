@@ -1,11 +1,10 @@
 
-import modelo.veiculo.Veiculo;
-import principal.principalVeiculo.PrincipalVeiculo;
-import servico.veiculoServico.VeiculoServicoImplementacao;
+import visual.MenuGeral;
 
 
 public class Main {
-    public static void main(String[] args) throws Exception{
-
+    public static void main(String[] args) {
+        MenuGeral menuGeral = new MenuGeral();
+        menuGeral.iniciar();
     }
 }
