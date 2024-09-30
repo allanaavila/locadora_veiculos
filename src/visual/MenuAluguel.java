@@ -20,4 +20,7 @@ public class MenuAluguel {
 
         System.out.println(menu);
     }
+
+    public void exibirMenuConsultarAluguel() {
+    }
 }

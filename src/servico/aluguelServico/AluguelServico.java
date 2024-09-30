@@ -18,4 +18,8 @@ public interface AluguelServico<T extends Aluguel> {
    public void devolverVeiculo(T aluguel, DevolucaoAluguel devolucao) throws Exception;
    public List<Veiculo> listarVeiculosDisponiveis();
    public List<Aluguel> buscarAlugueisPorPessoa(Pessoa pessoa);
+
+    List<T> buscarAluguelPorPessoa(String identificadorPessoa);
+
+   T buscarAluguelPorVeiculo(Veiculo veiculo);
 }
