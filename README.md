@@ -25,7 +25,8 @@ Para utilizar este projeto, clone o repositório e execute a aplicação em seu 
    cd locadora_veiculos
 
 3. **Abra o projeto na sua IDE (IntelliJ IDEA).**
-4. **Compile e execute a aplicação.**
+4. **Para acessar o guia de como utilizar o programa**: [Clique aqui](https://drive.google.com/file/d/1V1xHrbvwf5Gm77JHN4UXc7a94ZMJ1Kcg/view?usp=sharing)
+5. **Compile e execute a aplicação.**
 
 ## Funcionalidades
 
@@ -120,6 +121,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request
 <a href="https://github.com/marinagv95">
     <img src="https://avatars.githubusercontent.com/marinagv95" alt="Marina Guimarães Vieira" width="100" />
 </a>
+
 
 
 
