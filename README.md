@@ -60,6 +60,9 @@ Para utilizar este projeto, clone o repositório e execute a aplicação em seu 
 ### Menu Aluguel
 ![menuAluguela](imagens/menuAluguel.png)
 
+### Veja passo a passo: 
+[Clique aqui](https://drive.google.com/drive/folders/1fzRE5avr5vsdymDg8L6Ty9c9g9sy6Jix?usp=drive_link)
+
 ## Estrutura do Projeto
 
 ```bash
